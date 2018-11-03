@@ -53,7 +53,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/underdogg-forks/webed-core-modules-management.git"
+            "url": "https://github.com/CleanSoftMods/webed-core-modules-management.git"
         },
         {
             "type": "vcs",
