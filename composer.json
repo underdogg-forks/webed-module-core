@@ -57,11 +57,11 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/underdogg-forks/webed-core-themes-management.git"
+            "url": "https://github.com/CleanSoftMods/webed-core-themes-management.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/underdogg-forks/webed-core-caching.git"
+            "url": "https://github.com/CleanSoftMods/webed-core-caching.git"
         }
 
 
