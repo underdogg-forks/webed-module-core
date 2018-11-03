@@ -24,7 +24,7 @@
         "sgsoft-studio/elfinder": "4.0.*",
         "sgsoft-studio/hook": "4.0.*",
         "sgsoft-studio/menu": "4.0.*",
-        "sgsoft-studio/modules-management": "4.0.*",
+        "cleansoftmods/modules-management": "4.0.*",
         "sgsoft-studio/settings": "4.0.*",
         "sgsoft-studio/themes-management": "4.0.*",
         "sgsoft-studio/users": "4.0.*",
@@ -49,5 +49,11 @@
                 "Seo": "WebEd\\Base\\Facades\\SeoFacade"
             }
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/underdogg-forks/webed-core-modules-management.git"
+        }
+    ]
 }
